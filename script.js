@@ -226,3 +226,4 @@ default:
 setPlayerCards();
       break;
   }
+});
